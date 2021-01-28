@@ -5,5 +5,5 @@ My personal home page.
 ## To hack on this
 
 ```
-python3 -m http.server 1987
+python -m http.server 1987
 ```

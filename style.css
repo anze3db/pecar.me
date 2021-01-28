@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+
+img {
+    border-radius: 50%;
+    max-width: 200px;
+
+}
+
+ul {
+  list-style-type: none;
+}
